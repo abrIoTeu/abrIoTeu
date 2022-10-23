@@ -3,6 +3,13 @@
 
 <h2>About Me 👨‍🔧 👨‍💻</h2>
 
+I am:
+- :a Master of Business Administration (MBA), an accountant and a tax advisor. (This sound funny a weird, I know, but this field requires the application of a lot of matematics, IT and creativity)
+- :a C++ (microcontrollers) and JavaScript developer in frontend and backend as well
+- :a certified electrician
+- :a certified PLC (programmable logic controller) engineer
+
+
 Let me introduce abrIoT which is an open source building automation, smarthome and energy saving project.
 
 The aim of the project:
