@@ -21,7 +21,7 @@ I am the founder of <strong>Project abrIoT</strong>, an open source building aut
 
 <h2>What is abrIoT?</h2>
 
-Project abrIoT is an open source building automation and smarthome project with a strong emphasis on <strong>energy saving</strong>. The ongoing energy crysis gives us a notable lesson: there is no more cheap energy in Europe.
+Project abrIoT is an open source building automation and smarthome project with a strong emphasis on <strong>energy saving</strong>.
 
 The aim of the project is to:
 - Automate your home ("Smartize")
@@ -46,7 +46,8 @@ abrIoT is based on the following languages and solutions:
 
 abIoT is also providign simple, tested and CE certified electronics and pre-built distribution boxes which make possible to automate and monitor your home and open it to the net if required.
 
-How abrIoT works?
+<h2>How abrIoT works?</h2>
+
 - Home control is based on abrIoT single-board-PLC-s (SBP) which can be programmed by Arduino or ControlIO (MS Visual Code) by using the abrIoT Arduino libraries (C++)
 - Units are communicating via a modbus hierarchy which makes it possible to connect hundreds of devices and thousands of I/O ports
 - Extra features like AI, voice recognition, MQTT connection etc. are based on Linux Debian which is run on a single-board-computer (SBC) e.g. RaspberryPi or Olimex A10
@@ -57,6 +58,9 @@ abrIoT Instruction List (IL)  is a simplified version of the IEC61131-3 standard
 abrIoT IL works with abrIoT Single-board-PLCs (SBP) or with ESP8266 and ESP32 chipsets.
 
 
+<h2>Let us look into the future</h2>
+
+The ongoing energy crysis gives us a notable lesson: there is and there will be <strong>no more cheap energy in Europe</strong>. We have to learn how to be more effective. Let us give a chance to save as much energy as possible.
 
 Please also visit our website www.abriot.eu for further information and for product list.
 
