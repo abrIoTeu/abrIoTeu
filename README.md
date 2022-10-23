@@ -8,6 +8,8 @@ Are you interested in a cheap, opensource home automation project based on Arudi
 
 <h3>Who I am?</h3>
 
+---
+
 I am:
 - a Master of Business Administration (MBA), an accountant and a tax advisor. (This sound funny a weird, I know, but this field requires the application of a lot of matematics, IT and creativity) 📈
 - a C++ (microcontrollers) and JavaScript developer in frontend and backend as well 👨‍💻
@@ -16,6 +18,8 @@ I am:
 - the founder of <strong>Project abrIoT</strong>, an open source building automation project aiming to introduce cheap but flexible home automation solutions to every households
 
 <h3>Experiences</h3>
+
+---
 
 I have experience in the following fields:
 - Accounting and taxation 😆
@@ -26,6 +30,8 @@ I have experience in the following fields:
 - Microelectronics (PCB) development
 
 <h3>Languages and Tools 🔧</h3>
+
+---
 
 <div>
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Arduino.jpg" height="80px" width="80px">  
@@ -39,6 +45,12 @@ I have experience in the following fields:
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/modbus.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/PCB.png" height="80px" width="80px">
 </div>
+
+---
+
+Arduino IDE and C++, JavaScript, HTML, Grafana, InfluxDB and SQL, Node-RED, MQTT and modbus protocols, PCB design
+
+---
 
 <h2>About Porject abrIoT</h2>
 
