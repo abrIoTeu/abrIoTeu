@@ -23,6 +23,8 @@ I am the founder of <strong>Project abrIoT</strong>, an open source building aut
 
 <h2>What is abrIoT?</h2>
 
+<img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/abriot_header_logo.png">
+
 Project abrIoT is an open source building automation and smarthome project with a strong emphasis on <strong>energy saving</strong>.
 
 The aim of the project is to:
