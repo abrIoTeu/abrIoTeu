@@ -60,4 +60,4 @@ abrIoT IL works with abrIoT Single-board-PLCs (SBP) or with ESP8266 and ESP32 ch
 
 Please also visit our website www.abriot.eu for further information and for product list.
 
-Please also feel free to advise or contribute.
+Please also feel free to join, advise or contribute.
