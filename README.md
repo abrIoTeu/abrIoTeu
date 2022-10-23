@@ -33,9 +33,9 @@ I have experience in the following fields:
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/JavaScript.png" height="80px" width="80px"> 
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/HTML.png" height="80px" width="80px">  
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Grafana.jpg" height="80px" width="80px"> 
-  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/InfluxDB.png" height="80px" width="100px"> 
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/InfluxDB.png" height="80px" width="150px"> 
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/NodeRED.png" height="80px" width="80px">
-  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/MQTT.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/MQTT.png" height="80px" width="100px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/modbus.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/PCB.png" height="80px" width="80px">
 </div>
@@ -48,11 +48,15 @@ I have experience in the following fields:
 
 Project abrIoT is an open source building automation and smarthome project with a strong emphasis on <strong>energy saving</strong>.
 
+---
+
 The aim of the project is to:
 - Automate your home ("Smartize")
 - Optimize and lower your overall energy consumption (electricity, gas and water)
 - Monitor, log and analyize your data
 - Expand your home with extra features (e.g. remote controlling, voice recognition, AI)
+
+---
 
 The core of the project is to:
 - Implement open source solutions
@@ -60,6 +64,8 @@ The core of the project is to:
 - Comply with EU standards
 - Build a community
 - Be open to industry standards (e.g. PLC technology, modbus, MQTT)
+
+---
 
 abrIoT is based on the following languages and solutions:
 - Linux Debian www.debian.org
@@ -69,9 +75,11 @@ abrIoT is based on the following languages and solutions:
 - InfluxDB www.influxdata.com
 - abrIoT is based on cheap MCU (microcontoller) and MPU (microporcessor) technology like the famous ESP8266 and EP32.
 
-abIoT is also providign simple, tested and CE certified electronics and pre-built distribution boxes which make possible to automate and monitor your home and open it to the net if required.
+---
 
-<h2>How abrIoT works?</h2>
+abIoT is also providing simple, cheap tested and CE certified electronics and pre-built distribution boxes which make possible to automate and monitor your home and open it to the net if required.
+
+<h2>How does abrIoT work?</h2>
 
 - Home control is based on abrIoT single-board-PLC-s (SBP) which can be programmed by Arduino or ControlIO (MS Visual Code) by using the abrIoT Arduino libraries (C++)
 - Units are communicating via a modbus hierarchy which makes it possible to connect hundreds of devices and thousands of I/O ports
