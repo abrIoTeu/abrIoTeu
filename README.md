@@ -5,11 +5,16 @@ Are you interested in a cheap, opensource home automation project based on Arudi
 
 <h2>About Me 👨‍🔧 👨‍💻</h2>
 
+<h3>Who I am?</h3>
+
 I am:
 - a Master of Business Administration (MBA), an accountant and a tax advisor. (This sound funny a weird, I know, but this field requires the application of a lot of matematics, IT and creativity) 📈
 - a C++ (microcontrollers) and JavaScript developer in frontend and backend as well 👨‍💻
 - a certified electrician 🔌
 - a certified PLC (programmable logic controller) engineer 🔧
+- the founder of <strong>Project abrIoT</strong>, an open source building automation project aiming to introduce cheap but flexible home automation solutions to every households
+
+<h3>Experiences</h3>
 
 I have experience in the following fields:
 - Accounting and taxation 😆
@@ -19,7 +24,7 @@ I have experience in the following fields:
 - Arduino, JavaScript, HTML and CSS development, databases (time series and relational)
 - Microelectronics development
 
-I am the founder of <strong>Project abrIoT</strong>, an open source building automation project aiming to introduce cheap but flexible home automation solutions to every households.
+
 
 <h2>What is abrIoT?</h2>
 
