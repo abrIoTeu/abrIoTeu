@@ -19,11 +19,11 @@ I have experience in the following fields:
 
 I am the founder of <strong>Project abrIoT</strong>, an open source building automation project aiming to introduce cheap but flexible home automation solutions to every households.
 
+<h2>What is abrIoT?</h2>
 
+Project abrIoT is an open source building automation and smarthome project with a strong emphasis on <strong>energy saving</strong>. The ongoing energy crysis gives us a notable lesson: there is no more cheap energy in Europe.
 
-Let me introduce abrIoT which is an open source building automation, smarthome and energy saving project.
-
-The aim of the project:
+The aim of the project is to:
 - Automate your home ("Smartize")
 - Optimize and lower your overall energy consumption (electricity, gas and water)
 - Monitor, log and analyize your data
@@ -60,4 +60,4 @@ abrIoT IL works with abrIoT Single-board-PLCs (SBP) or with ESP8266 and ESP32 ch
 
 Please also visit our website www.abriot.eu for further information and for product list.
 
-Please also feel free to contribute.
+Please also feel free to advise or contribute.
