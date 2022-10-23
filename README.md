@@ -1,5 +1,6 @@
 <h1>Hello Everyone,</h1>
 
+:wave: :wave: :wave:
 Are you interested in a cheap, opensource home automation project based on Arudino and JavaScript?
 
 
@@ -11,7 +12,7 @@ I am:
 - a Master of Business Administration (MBA), an accountant and a tax advisor. (This sound funny a weird, I know, but this field requires the application of a lot of matematics, IT and creativity) 📈
 - a C++ (microcontrollers) and JavaScript developer in frontend and backend as well 👨‍💻
 - a certified electrician 🔌
-- a certified PLC (programmable logic controller) engineer 🔧
+- a certified PLC (programmable logic controller) engineer
 - the founder of <strong>Project abrIoT</strong>, an open source building automation project aiming to introduce cheap but flexible home automation solutions to every households
 
 <h3>Experiences</h3>
@@ -22,13 +23,28 @@ I have experience in the following fields:
 - Home automation and smart homes
 - Industrial PLCs
 - Arduino, JavaScript, HTML and CSS development, databases (time series and relational)
-- Microelectronics development
+- Microelectronics (PCB) development
 
+<h3>Languages and Tools 🔧</h3>
 
+<div>
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Arduino.jpg" height="80px" width="80px">  
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/C%2B%2B.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/JavaScript.png" height="80px" width="80px"> 
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/HTML.png" height="80px" width="80px">  
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Grafana.jpg" height="80px" width="80px"> 
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/InfluxDB.png" height="80px" width="100px"> 
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/NodeRED.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/MQTT.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/modbus.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/PCB.png" height="80px" width="80px">
+</div>
 
-<h2>What is abrIoT?</h2>
+<h2>About Porject abrIoT</h2>
 
 <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/abriot_header_logo.png">
+
+<h3>What is abrIoT?</h3>
 
 Project abrIoT is an open source building automation and smarthome project with a strong emphasis on <strong>energy saving</strong>.
 
@@ -74,3 +90,9 @@ The ongoing energy crysis gives us a notable lesson: there is and there will be 
 Please also visit our website www.abriot.eu for further information and for product list.
 
 Please also feel free to join, advise or contribute.
+
+<h1>Contact</h1>
+
+If you want to contact me:
+- email: <a href="mailto:abriot.eu@gmail.com" target="_blank">abriot.eu@gmail.com</a>
+- LinkedIN: <a href="https://www.linkedin.com/in/attila-lantos-a4b737a2/" target="_blank">Profile</a>
