@@ -1,5 +1,6 @@
 <h1>Hello Everyone,</h1>
 
+Are you interested in a cheap, opensource home automation project based on Arudino and JavaScript?
 
 <h2>About Me 👨‍🔧 👨‍💻</h2>
 
