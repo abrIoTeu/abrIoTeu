@@ -6,7 +6,7 @@ Are you interested in a cheap, opensource home automation project based on Arudi
 
 <h2>About Me 👨‍🔧 👨‍💻</h2>
 
-<h3>Who I am?</h3>
+<h3>Who am I?</h3>
 
 ---
 
