@@ -1,7 +1,7 @@
 <h1>Hello Everyone,</h1>
 
 
-<h2>### 👨‍🔧 👨‍💻:About Me</h2>
+<h2>About Me 👨‍🔧 👨‍💻</h2>
 
 Let me introduce abrIoT which is an open source building automation, smarthome and energy saving project.
 
