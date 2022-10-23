@@ -11,6 +11,14 @@ I am:
 
 I have experience in the following fields:
 - Accounting and taxation 😆
+- Home electricity
+- Home automation and smart homes
+- Industrial PLCs
+- Arduino, JavaScript, HTML and CSS development, databases (time series and relational)
+- Microelectronics development
+
+I am the founder of <strong>Project abrIoT</strong>, an open source building automation project aiming to introduce cheap but flexible home automation solutions to every households.
+
 
 
 Let me introduce abrIoT which is an open source building automation, smarthome and energy saving project.
