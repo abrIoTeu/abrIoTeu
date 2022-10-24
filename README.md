@@ -111,6 +111,10 @@ Please also visit our website www.abriot.eu for further information and for prod
 
 Please also feel free to join, advise or contribute.
 
+<h1>Latest blog posts</h1>
+
+Please check out my latest relevant blog posts:
+
 <h1>Contact</h1>
 
 If you want to contact me:
