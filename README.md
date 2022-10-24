@@ -4,11 +4,9 @@
 Are you interested in a cheap, opensource home automation project based on Arudino and JavaScript?
 
 
-<h2>About Me 👨‍🔧 👨‍💻</h2>
+<h1>About Me 👨‍🔧 👨‍💻</h1>
 
-<h3>Who am I?</h3>
-
----
+<h2>Who am I?</h2>
 
 I am:
 - a Master of Business Administration (MBA), an accountant and a tax advisor. (This sound funny a weird, I know, but this field requires the application of a lot of matematics, IT and creativity) 📈
@@ -17,9 +15,7 @@ I am:
 - a certified PLC (programmable logic controller) engineer
 - the founder of <strong>Project abrIoT</strong>, an open source building automation project aiming to introduce cheap but flexible home automation solutions to every households
 
-<h3>Experiences</h3>
-
----
+<h2>Experiences</h2>
 
 I have experience in the following fields:
 - Accounting and taxation 😆
@@ -29,9 +25,7 @@ I have experience in the following fields:
 - Arduino, JavaScript, HTML and CSS development, databases (time series and relational)
 - Microelectronics (PCB) development
 
-<h3>Languages and Tools 🔧</h3>
-
----
+<h2>Languages and Tools 🔧</h2>
 
 <div>
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Arduino.png" height="80px" width="80px">  
@@ -52,11 +46,16 @@ Arduino IDE and C++, JavaScript, HTML, Grafana, InfluxDB and SQL, Node-RED, MQTT
 
 ---
 
-<h2>About Porject abrIoT</h2>
+<h2>Latest blog posts</h2>
+
+Please check out my latest relevant blog posts:
+
+
+<h1>About Porject abrIoT</h1>
 
 <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/abriot_header_logo.png">
 
-<h3>What is abrIoT?</h3>
+<h2>What is abrIoT?</h2>
 
 Project abrIoT is an open source building automation and smarthome project with a strong emphasis on <strong>energy saving</strong>.
 
@@ -110,10 +109,6 @@ The ongoing energy crysis gives us a notable lesson: there is and there will be 
 Please also visit our website www.abriot.eu for further information and for product list.
 
 Please also feel free to join, advise or contribute.
-
-<h1>Latest blog posts</h1>
-
-Please check out my latest relevant blog posts:
 
 <h1>Contact</h1>
 
