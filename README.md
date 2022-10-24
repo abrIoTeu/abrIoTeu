@@ -34,14 +34,14 @@ I have experience in the following fields:
 ---
 
 <div>
-  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Arduino.jpg" height="80px" width="80px">  
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Arduino.png" height="80px" width="80px">  
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/C%2B%2B.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/JavaScript.png" height="80px" width="80px"> 
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/HTML.png" height="80px" width="80px">  
-  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Grafana.jpg" height="80px" width="80px"> 
-  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/InfluxDB.png" height="80px" width="150px"> 
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Grafana.png" height="80px" width="80px"> 
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/InfluxDB.png" height="80px" width="80px"> 
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/NodeRED.png" height="80px" width="80px">
-  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/MQTT.png" height="80px" width="100px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/MQTT.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/modbus.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/PCB.png" height="80px" width="80px">
 </div>
